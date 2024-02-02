@@ -5,3 +5,12 @@
 
 
 <img width="420" alt="Screenshot 2024-02-01 at 19 26 23" src="https://github.com/kkd01/CocktailApp/assets/156792296/0891d795-1af0-48a2-8e5e-27db814a4e2a">
+
+### Python Libraries
+pandas
+sqlite3
+requests
+json
+tkinter
+IPython
+PIL
