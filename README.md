@@ -15,7 +15,7 @@ To create an app where users can search for cocktail recipes and save these as a
 ### Current Stage
 The app can currently search for cocktails based on the most searched ingredients.
 
-The ingredients are stored in a SQLite table where only the new values are added on each API call, the ingredients dropdown is then populated using this data. 
+The ingredients are stored in a SQLite table where only the new values are added on each API call, the ingredients dropdown is then populated with this data. 
 
 When a user selects an ingredient to search, the ingredient name is passed to another API to retrieve all the cocktails that contain this ingredient, this data is then presented in a treeview.
 
